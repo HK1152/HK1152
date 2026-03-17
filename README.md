@@ -92,6 +92,7 @@
   <a href="https://www.linkedin.com/in/hk1152/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <br>
   <a href="mailto:hk1152studio@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
